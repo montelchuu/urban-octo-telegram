@@ -15,6 +15,8 @@ header {
     color: #ffffff;
 }
 
+/* After changing header and footer, made sure to move elements in order */
+
 header h1 {
     display: inline-block;
     font-size: 48px;
@@ -86,6 +88,8 @@ footer h4 {
     margin-left: 20px;
 }
 
+/* Changed to content-sub because of the redundancy */
+
 .content-sub {
     margin-bottom: 20px;
     padding: 50px;
@@ -114,6 +118,8 @@ footer h4 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+
+/* Changed to benefit-sub because of the redundancy */
 
 .benefit-sub {
     margin-bottom: 32px;
